@@ -1,4 +1,9 @@
 <!doctype html>
+
+<!--
+  You like snooping around in someone else's code huh... Fair enough, I do too! Why don't you shoot me an email already. Let's work together: rolandpeelen@gmail.com
+  Also, I didn't want to say this, but now that you're snooping around, I don't like for-loops... Why don't Nodelists just implement 'map' like every other sane listed item?
+-->
 <html>
 <head>
   <meta charset=utf-8 />
@@ -14,4 +19,12 @@
     </div>
   </div>
 </body>
+
+<script>
+  const details = document.querySelectorAll('.details');
+  const toggle = detail => event => detail.classList.toggle('show')
+  for(let detail of details) {
+    detail.addEventListener('click', toggle(detail, details))
+  }
+</script>
 </html>
