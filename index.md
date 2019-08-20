@@ -34,7 +34,7 @@ __Freelance Front-End Developer__, Profero
 __3d Visualiser__, Peppr
 - Before starting my career as a programmer, I used to make 3d visualisations. Under the company name Peppr, we took on several projects. It's still active and relevant because of one of the side projects.
 
-`07/2017 - 06/2018`
+`07/2017 - 02/2019`
 __Lead Front-End Developer__, Conclusion
 - Within Conclusion, I was responsible for the FE department. Within a year, we doubled in capacity. We did projects varying from legal firms, to car leasing firms to small prototypes for better patient communication in hospitals and mobile tracking solutions for a big auction place, working with plain HTML / JS, Angular, Vue and React.
 
