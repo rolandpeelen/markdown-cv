@@ -13,7 +13,7 @@ Front-End Software Developer
 
 
 ### In a nutshell
-An entrepreneurial front-end developer with a wide project portfolio. Has touched most of the front-end frameworks over the years and worked with a subset of them a few professionally. Currently a big fan of React, using it in a functional way. Has been front-end in most projects, but feels at home as a full-stack developer in a full-stack javascript environment. Comfortable as a tech lead.
+An entrepreneurial front-end developer with a wide project portfolio. Has touched most of the front-end frameworks over the years and worked with a subset of them professionally. Currently a big fan of React, using it in a functional way. Has been front-end in most projects, but feels at home as a full-stack developer in a full-stack javascript environment. Comfortable as a tech lead.
 
 ### Has worked with
 <ul class="discs">
